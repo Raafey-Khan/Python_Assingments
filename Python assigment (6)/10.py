@@ -1,6 +1,6 @@
-def cn():
+def cn():      #cn is the main func
      r = int(input("Enter the real part:-"))
-     i = int(input("Enter the image part:-"))
+     i = int(input("Enter the image part:-"))   
      print(r)
      print(i)
      r.real
